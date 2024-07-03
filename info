@@ -1,0 +1,12 @@
+### Project 1: Credit Card Fraud Detection
+`In this project, I focused on developing a robust model to detect fraudulent credit card transactions.
+I employed various machine learning techniques, ultimately determining that the Random Forest Classifier was the most effective model for this task.
+This model achieved the highest accuracy and precision, successfully distinguishing between legitimate and fraudulent transactions.
+The dataset used contained a substantial number of transactions,
+and I performed extensive data preprocessing, feature selection, and hyperparameter tuning to optimize the model's performance.`
+
+### Project 2: Movie Rating Prediction
+The objective of this project was to predict movie ratings based on various features such as genre, cast, and user reviews. After experimenting with several
+regression models, I found that the Random Forest Regressor provided the best results. This model excelled in capturing the complex relationships within the data,
+leading to highly accurate predictions. The project involved thorough data cleaning, feature engineering, and model evaluation,
+ensuring that the Random Forest Regressor was fine-tuned to deliver optimal performance in predicting movie ratings.
